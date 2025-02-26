@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0561-array-partition](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0561-array-partition) |
+| [0941-sort-array-by-parity](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1137-height-checker) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0443-string-compression](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0696-count-binary-substrings) |
+| [0941-sort-array-by-parity](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0941-sort-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0561-array-partition) |
+| [0941-sort-array-by-parity](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1137-height-checker) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
