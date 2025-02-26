@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1137-height-checker) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1829-maximum-units-on-a-truck](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Two Pointers
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0561-array-partition) |
+| [1829-maximum-units-on-a-truck](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## String
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1137-height-checker) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1829-maximum-units-on-a-truck](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Heap (Priority Queue)
 |  |
