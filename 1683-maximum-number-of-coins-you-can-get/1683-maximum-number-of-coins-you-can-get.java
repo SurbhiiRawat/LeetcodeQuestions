@@ -5,7 +5,7 @@ class Solution {
         int j=piles.length-1;
         int ans =0;
         while(i<j){
-            if(piles[j]>=piles[i]){
+            if(piles[j-1]>=piles[i]){
                 ans += piles[j-1];
             }
             i++;
