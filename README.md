@@ -20,6 +20,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1829-maximum-units-on-a-truck](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Two Pointers
 |  |
@@ -30,6 +31,7 @@
 | [0443-string-compression](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0696-count-binary-substrings) |
 | [0941-sort-array-by-parity](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0941-sort-array-by-parity) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -38,6 +40,7 @@
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1829-maximum-units-on-a-truck](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## String
 |  |
@@ -75,6 +78,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1829-maximum-units-on-a-truck](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Heap (Priority Queue)
 |  |
