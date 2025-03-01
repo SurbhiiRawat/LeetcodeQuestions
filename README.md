@@ -15,6 +15,7 @@
 | [0948-sort-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0948-sort-an-array) |
 | [1095-two-city-scheduling](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1095-two-city-scheduling) |
 | [1137-height-checker](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1137-height-checker) |
+| [1241-decompress-run-length-encoded-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1241-decompress-run-length-encoded-list) |
 | [1306-minimum-absolute-difference](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1306-minimum-absolute-difference) |
 | [1505-create-target-array-in-the-given-order](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
