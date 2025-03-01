@@ -16,6 +16,7 @@
 | [1095-two-city-scheduling](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1095-two-city-scheduling) |
 | [1137-height-checker](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1137-height-checker) |
 | [1306-minimum-absolute-difference](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1306-minimum-absolute-difference) |
+| [1505-create-target-array-in-the-given-order](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1580-shuffle-the-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -123,4 +124,8 @@
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## Simulation
+|  |
+| ------- |
+| [1505-create-target-array-in-the-given-order](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1505-create-target-array-in-the-given-order) |
 <!---LeetCode Topics End-->
