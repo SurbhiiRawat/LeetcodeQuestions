@@ -21,6 +21,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1829-maximum-units-on-a-truck](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -43,6 +44,7 @@
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1829-maximum-units-on-a-truck](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -83,6 +85,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1829-maximum-units-on-a-truck](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
