@@ -17,6 +17,7 @@
 | [1137-height-checker](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1137-height-checker) |
 | [1306-minimum-absolute-difference](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1306-minimum-absolute-difference) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1580-shuffle-the-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
