@@ -125,6 +125,7 @@
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Game Theory
@@ -135,4 +136,8 @@
 |  |
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1505-create-target-array-in-the-given-order) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
