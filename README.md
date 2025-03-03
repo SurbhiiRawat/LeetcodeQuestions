@@ -30,6 +30,7 @@
 | [1961-maximum-ice-cream-bars](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2551-apply-operations-to-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2551-apply-operations-to-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
 |  |
@@ -41,6 +42,7 @@
 | [0696-count-binary-substrings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0696-count-binary-substrings) |
 | [0941-sort-array-by-parity](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0941-sort-array-by-parity) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2551-apply-operations-to-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2551-apply-operations-to-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 |  |
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1505-create-target-array-in-the-given-order) |
+| [2551-apply-operations-to-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
