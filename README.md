@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0561-array-partition) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0561-array-partition) |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0229-majority-element-ii) |
 | [0561-array-partition](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1137-height-checker) |
@@ -161,6 +164,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
