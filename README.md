@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0229-majority-element-ii) |
@@ -66,6 +67,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0049-group-anagrams) |
 | [0443-string-compression](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0696-count-binary-substrings) |
 | [1651-shuffle-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1651-shuffle-string) |
@@ -91,6 +93,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0229-majority-element-ii) |
@@ -163,6 +166,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0349-intersection-of-two-arrays) |
