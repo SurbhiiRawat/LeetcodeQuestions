@@ -32,6 +32,7 @@
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1580-shuffle-the-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1635-number-of-good-pairs](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1651-shuffle-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -148,6 +149,7 @@
 | [0561-array-partition](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1137-height-checker) |
+| [1635-number-of-good-pairs](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1635-number-of-good-pairs) |
 | [1961-maximum-ice-cream-bars](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Math
@@ -156,6 +158,7 @@
 | [0441-arranging-coins](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0797-rabbits-in-forest](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0797-rabbits-in-forest) |
+| [1635-number-of-good-pairs](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1635-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Game Theory
 |  |
@@ -188,6 +191,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0797-rabbits-in-forest](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0807-custom-sort-string) |
+| [1635-number-of-good-pairs](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1635-number-of-good-pairs) |
 ## Sliding Window
 |  |
 | ------- |
