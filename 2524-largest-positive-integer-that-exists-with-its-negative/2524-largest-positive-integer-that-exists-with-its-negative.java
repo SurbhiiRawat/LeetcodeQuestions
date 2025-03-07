@@ -7,10 +7,10 @@ class Solution {
         }
         Arrays.sort(nums);
         for(int i=nums.length-1; i>= 0; i--){
-            if(map.containsKey(nums[i]) && map.containsKey(-nums[i])){
-                ans= Math.abs(nums[i]);
+            if(map.containsKey(-nums[i])){
+                return nums[i];
             }
         }
-        return ans;
+        return -1;
     }
 }
