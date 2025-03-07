@@ -37,6 +37,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1829-maximum-units-on-a-truck](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1961-maximum-ice-cream-bars) |
@@ -82,6 +83,7 @@
 | [0807-custom-sort-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0807-custom-sort-string) |
 | [1651-shuffle-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2727-number-of-senior-citizens) |
 ## Dynamic Programming
@@ -153,6 +155,7 @@
 | [0948-sort-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1137-height-checker) |
 | [1635-number-of-good-pairs](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1961-maximum-ice-cream-bars](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Math
@@ -195,6 +198,7 @@
 | [0797-rabbits-in-forest](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0807-custom-sort-string) |
 | [1635-number-of-good-pairs](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2502-sort-the-people) |
 ## Sliding Window
 |  |
@@ -205,4 +209,8 @@
 | ------- |
 | [0525-contiguous-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0560-subarray-sum-equals-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
