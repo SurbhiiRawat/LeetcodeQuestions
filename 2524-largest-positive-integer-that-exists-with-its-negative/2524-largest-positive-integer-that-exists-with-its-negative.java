@@ -7,7 +7,7 @@ class Solution {
         }
         Arrays.sort(nums);
         for(int i=nums.length-1; i>= 0; i--){
-            if(set.contains(-nums[i])){
+            if(nums[i]>=0 && set.contains(-nums[i])){
                 return nums[i];
             }
         }
