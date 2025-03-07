@@ -46,6 +46,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2551-apply-operations-to-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2727-number-of-senior-citizens) |
 | [3227-find-missing-and-repeated-values](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/3227-find-missing-and-repeated-values) |
@@ -61,6 +62,7 @@
 | [0696-count-binary-substrings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0696-count-binary-substrings) |
 | [0941-sort-array-by-parity](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0941-sort-array-by-parity) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2551-apply-operations-to-an-array) |
 ## Greedy
 |  |
@@ -134,6 +136,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -208,6 +211,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3227-find-missing-and-repeated-values](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
