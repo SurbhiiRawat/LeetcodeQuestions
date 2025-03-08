@@ -14,6 +14,7 @@
 | [0169-majority-element](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0454-4sum-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0454-4sum-ii) |
@@ -119,6 +120,7 @@
 | [0088-merge-sorted-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0561-array-partition) |
@@ -174,6 +176,7 @@
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0797-rabbits-in-forest](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0797-rabbits-in-forest) |
@@ -192,6 +195,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0441-arranging-coins) |
@@ -204,6 +208,7 @@
 | [0205-isomorphic-strings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0454-4sum-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0454-4sum-ii) |
@@ -232,6 +237,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0268-missing-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Matrix
 |  |
