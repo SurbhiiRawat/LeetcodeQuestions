@@ -18,6 +18,7 @@
 | [0268-missing-number](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0454-4sum-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0454-4sum-ii) |
 | [0525-contiguous-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0560-subarray-sum-equals-k) |
@@ -181,6 +182,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0797-rabbits-in-forest](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0797-rabbits-in-forest) |
@@ -217,6 +219,7 @@
 | [0268-missing-number](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0454-4sum-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0454-4sum-ii) |
 | [0525-contiguous-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0560-subarray-sum-equals-k) |
@@ -253,4 +256,12 @@
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/3227-find-missing-and-repeated-values) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
