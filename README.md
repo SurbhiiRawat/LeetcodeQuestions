@@ -100,6 +100,7 @@
 | [0878-shifting-letters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0878-shifting-letters) |
 | [1006-vowel-spellchecker](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1044-find-common-characters) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1651-shuffle-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -238,6 +239,7 @@
 | [1044-find-common-characters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1319-unique-number-of-occurrences) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1694-make-sum-divisible-by-p) |
@@ -250,6 +252,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0219-contains-duplicate-ii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
 | ------- |
