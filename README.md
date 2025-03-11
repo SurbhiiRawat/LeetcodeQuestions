@@ -39,6 +39,7 @@
 | [1241-decompress-run-length-encoded-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1241-decompress-run-length-encoded-list) |
 | [1306-minimum-absolute-difference](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1319-unique-number-of-occurrences) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1580-shuffle-the-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1580-shuffle-the-array) |
@@ -213,6 +214,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0441-arranging-coins) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -269,6 +271,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/3227-find-missing-and-repeated-values) |
 ## Design
 |  |
