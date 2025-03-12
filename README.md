@@ -53,6 +53,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1829-maximum-units-on-a-truck](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
+| [1833-find-the-highest-altitude](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1833-find-the-highest-altitude) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -268,6 +269,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1603-running-sum-of-1d-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1603-running-sum-of-1d-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1694-make-sum-divisible-by-p) |
+| [1833-find-the-highest-altitude](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1833-find-the-highest-altitude) |
 ## Bit Manipulation
 |  |
 | ------- |
