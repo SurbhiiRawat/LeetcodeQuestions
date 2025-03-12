@@ -60,6 +60,7 @@
 | [2502-sort-the-people](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2551-apply-operations-to-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2727-number-of-senior-citizens](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2727-number-of-senior-citizens) |
 | [3227-find-missing-and-repeated-values](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -186,6 +187,7 @@
 | [1961-maximum-ice-cream-bars](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
 | ------- |
@@ -215,6 +217,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0441-arranging-coins) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
