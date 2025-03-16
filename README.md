@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0141-linked-list-cycle) |
@@ -304,6 +305,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
