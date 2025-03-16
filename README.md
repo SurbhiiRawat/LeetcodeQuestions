@@ -200,6 +200,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0441-arranging-coins) |
@@ -305,6 +306,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0142-linked-list-cycle-ii) |
@@ -312,5 +314,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
