@@ -65,6 +65,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2502-sort-the-people](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2551-apply-operations-to-an-array) |
@@ -298,6 +299,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1677-matrix-diagonal-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/3227-find-missing-and-repeated-values) |
 ## Design
 |  |
