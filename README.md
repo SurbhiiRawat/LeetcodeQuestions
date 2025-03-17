@@ -85,6 +85,7 @@
 | [0088-merge-sorted-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0443-string-compression) |
@@ -248,6 +249,7 @@
 | [0049-group-anagrams](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0217-contains-duplicate) |
@@ -330,6 +332,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
