@@ -1,28 +1,21 @@
 class Solution {
     public int pivotIndex(int[] nums) {
-        int ans =-1;
+        int prefix[] = new int[nums.length];
+        int suffix[] = new int[nums.length];
+        prefix[0]=nums[0];
+        for(int i=1; i<nums.length ; i++){
+            prefix[i]= prefix[i-1] + nums[i];
+        }
+        suffix[nums.length-1]=nums[nums.length-1];
+        for(int i=nums.length-2; i >= 0 ; i--){
+            suffix[i]= suffix[i+1] + nums[i];
+        }
+        int ans=-1;
         for(int i=0; i<nums.length; i++){
-            if(leftsum(nums,i)==rightsum(nums,i)){
-                ans =i;
-                break;
-            } 
+            if(prefix[i]==suffix[i]){
+                return i;
+            }
         }
-        return ans;
-        
-
+        return -1;
     }
-    public int leftsum(int arr[], int k){
-            int sum=0;
-            for(int i=0; i<k; i++){
-                sum+= arr[i];
-            }
-            return sum;
-        }
-        public int rightsum(int arr[], int k){
-            int sum=0;
-            for(int i=k+1; i<arr.length; i++){
-                sum+= arr[i];
-            }
-            return sum;
-        }
 }
