@@ -59,6 +59,7 @@
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
 | [1833-find-the-highest-altitude](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1833-find-the-highest-altitude) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -227,6 +228,7 @@
 | [1500-count-largest-group](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1635-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/3227-find-missing-and-repeated-values) |
 ## Game Theory
@@ -309,6 +311,7 @@
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1603-running-sum-of-1d-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1694-make-sum-divisible-by-p) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2714-left-and-right-sum-differences) |
