@@ -63,6 +63,7 @@
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -306,6 +307,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1603-running-sum-of-1d-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1833-find-the-highest-altitude) |
+| [2102-find-the-middle-index-in-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2102-find-the-middle-index-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
