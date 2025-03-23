@@ -121,6 +121,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0696-count-binary-substrings) |
 | [0807-custom-sort-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0807-custom-sort-string) |
@@ -205,6 +206,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1137-height-checker) |
@@ -271,6 +273,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0387-first-unique-character-in-a-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0454-4sum-ii) |
 | [0525-contiguous-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0525-contiguous-array) |
@@ -367,4 +370,8 @@
 | [0203-remove-linked-list-elements](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0234-palindrome-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
