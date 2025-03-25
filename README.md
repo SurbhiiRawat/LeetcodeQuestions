@@ -30,6 +30,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0724-find-pivot-index) |
 | [0797-rabbits-in-forest](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0797-rabbits-in-forest) |
+| [0822-unique-morse-code-words](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0822-unique-morse-code-words) |
 | [0878-shifting-letters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0878-shifting-letters) |
 | [0898-transpose-matrix](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0941-sort-array-by-parity) |
@@ -125,6 +126,7 @@
 | [0443-string-compression](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0696-count-binary-substrings) |
 | [0807-custom-sort-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0807-custom-sort-string) |
+| [0822-unique-morse-code-words](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0822-unique-morse-code-words) |
 | [0878-shifting-letters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0878-shifting-letters) |
 | [1006-vowel-spellchecker](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1044-find-common-characters) |
@@ -282,6 +284,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0797-rabbits-in-forest](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0807-custom-sort-string) |
+| [0822-unique-morse-code-words](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0822-unique-morse-code-words) |
 | [1006-vowel-spellchecker](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1044-find-common-characters) |
