@@ -135,6 +135,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1651-shuffle-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1651-shuffle-string) |
+| [1777-determine-if-two-strings-are-close](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -183,6 +184,7 @@
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1777-determine-if-two-strings-are-close](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1829-maximum-units-on-a-truck](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1961-maximum-ice-cream-bars) |
@@ -218,6 +220,7 @@
 | [1217-relative-sort-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1217-relative-sort-array) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1635-number-of-good-pairs](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1635-number-of-good-pairs) |
+| [1777-determine-if-two-strings-are-close](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1961-maximum-ice-cream-bars](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -299,6 +302,7 @@
 | [1500-count-largest-group](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1694-make-sum-divisible-by-p) |
+| [1777-determine-if-two-strings-are-close](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
