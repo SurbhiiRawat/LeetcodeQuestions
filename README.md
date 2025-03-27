@@ -82,6 +82,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2714-left-and-right-sum-differences](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2727-number-of-senior-citizens) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -192,6 +193,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -309,6 +311,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
