@@ -85,6 +85,7 @@
 | [2727-number-of-senior-citizens](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2727-number-of-senior-citizens) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/3227-find-missing-and-repeated-values) |
+| [3463-alternating-groups-i](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/3463-alternating-groups-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -321,6 +322,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0219-contains-duplicate-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3463-alternating-groups-i](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/3463-alternating-groups-i) |
 ## Prefix Sum
 |  |
 | ------- |
