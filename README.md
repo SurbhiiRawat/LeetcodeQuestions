@@ -148,6 +148,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -235,6 +236,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0441-arranging-coins) |
@@ -397,4 +399,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
