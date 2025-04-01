@@ -16,20 +16,6 @@ class Solution {
                 st2.push(t.charAt(i));
             }
         }
-        boolean flag = true;
-        if(st1.size() != st2.size()){
-            flag = false;
-            return flag;
-        }    
-        while(st1.isEmpty()==false){
-            if(st1.peek() == st2.peek()){
-                st1.pop();
-                st2.pop();
-            }else{
-                flag = false;
-                break;
-            }
-        }
-        return flag;
+        return st1.equals(st2);
     }
 }
