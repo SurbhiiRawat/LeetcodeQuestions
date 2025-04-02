@@ -26,6 +26,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0454-4sum-ii) |
+| [0503-next-greater-element-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0560-subarray-sum-equals-k) |
@@ -158,6 +159,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0874-backspace-string-compare) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -165,6 +167,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
