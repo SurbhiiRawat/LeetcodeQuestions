@@ -32,6 +32,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0739-daily-temperatures) |
@@ -160,6 +161,7 @@
 | [0042-trapping-rain-water](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0874-backspace-string-compare) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -269,6 +271,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1505-create-target-array-in-the-given-order) |
