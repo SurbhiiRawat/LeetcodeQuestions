@@ -141,6 +141,7 @@
 | [0878-shifting-letters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0878-shifting-letters) |
 | [1006-vowel-spellchecker](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1044-find-common-characters) |
+| [1078-remove-outermost-parentheses](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1651-shuffle-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1651-shuffle-string) |
@@ -164,6 +165,7 @@
 | [0682-baseball-game](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0874-backspace-string-compare) |
+| [1078-remove-outermost-parentheses](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1078-remove-outermost-parentheses) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
