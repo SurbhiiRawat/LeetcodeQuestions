@@ -33,6 +33,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0822-unique-morse-code-words) |
 | [0878-shifting-letters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0878-shifting-letters) |
@@ -157,12 +158,14 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0874-backspace-string-compare) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
 | ------- |
