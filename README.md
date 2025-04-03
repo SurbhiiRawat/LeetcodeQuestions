@@ -260,6 +260,7 @@
 | [0002-add-two-numbers](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0292-nim-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0523-continuous-subarray-sum) |
@@ -274,6 +275,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0292-nim-game) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Simulation
 |  |
@@ -441,4 +443,8 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0937-online-stock-span) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
