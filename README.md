@@ -117,6 +117,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0561-array-partition) |
 | [0797-rabbits-in-forest](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0797-rabbits-in-forest) |
 | [1095-two-city-scheduling](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1095-two-city-scheduling) |
@@ -133,6 +134,7 @@
 | [0049-group-anagrams](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0696-count-binary-substrings) |
 | [0807-custom-sort-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0807-custom-sort-string) |
@@ -163,6 +165,7 @@
 | [0042-trapping-rain-water](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0739-daily-temperatures) |
@@ -175,6 +178,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0937-online-stock-span) |
