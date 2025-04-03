@@ -161,6 +161,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0682-baseball-game) |
@@ -387,6 +388,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0937-online-stock-span) |
