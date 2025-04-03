@@ -166,6 +166,7 @@
 | [0682-baseball-game](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0874-backspace-string-compare) |
+| [0937-online-stock-span](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1078-remove-outermost-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -175,6 +176,7 @@
 | [0042-trapping-rain-water](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0937-online-stock-span) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -387,6 +389,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0937-online-stock-span](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0937-online-stock-span) |
 ## Randomized
 |  |
 | ------- |
@@ -432,4 +435,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0128-longest-consecutive-sequence) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
