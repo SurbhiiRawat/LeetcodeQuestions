@@ -151,6 +151,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1651-shuffle-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1651-shuffle-string) |
+| [1666-make-the-string-great](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1666-make-the-string-great) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -179,6 +180,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1666-make-the-string-great](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1666-make-the-string-great) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
