@@ -42,6 +42,7 @@
 | [0898-transpose-matrix](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0948-sort-an-array) |
+| [0983-validate-stack-sequences](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0983-validate-stack-sequences) |
 | [1006-vowel-spellchecker](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1044-find-common-characters) |
@@ -171,6 +172,7 @@
 | [0739-daily-temperatures](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0937-online-stock-span) |
+| [0983-validate-stack-sequences](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0983-validate-stack-sequences) |
 | [1078-remove-outermost-parentheses](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1078-remove-outermost-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -287,6 +289,7 @@
 | [0682-baseball-game](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0898-transpose-matrix) |
+| [0983-validate-stack-sequences](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0983-validate-stack-sequences) |
 | [1505-create-target-array-in-the-given-order](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1505-create-target-array-in-the-given-order) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2551-apply-operations-to-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2551-apply-operations-to-an-array) |
