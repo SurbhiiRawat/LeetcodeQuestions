@@ -145,6 +145,7 @@
 | [0822-unique-morse-code-words](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0822-unique-morse-code-words) |
 | [0874-backspace-string-compare](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0878-shifting-letters) |
+| [0886-score-of-parentheses](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0886-score-of-parentheses) |
 | [1006-vowel-spellchecker](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1078-remove-outermost-parentheses) |
@@ -176,6 +177,7 @@
 | [0682-baseball-game](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0886-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0937-online-stock-span) |
 | [0983-validate-stack-sequences](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0983-validate-stack-sequences) |
 | [1078-remove-outermost-parentheses](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1078-remove-outermost-parentheses) |
