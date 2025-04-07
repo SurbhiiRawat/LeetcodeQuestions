@@ -122,6 +122,7 @@
 | [0011-container-with-most-water](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0797-rabbits-in-forest](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0797-rabbits-in-forest) |
 | [1095-two-city-scheduling](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1095-two-city-scheduling) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -141,6 +142,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0443-string-compression) |
+| [0678-valid-parenthesis-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0696-count-binary-substrings) |
 | [0807-custom-sort-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0807-custom-sort-string) |
 | [0822-unique-morse-code-words](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0822-unique-morse-code-words) |
@@ -168,6 +170,7 @@
 | [0032-longest-valid-parentheses](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0070-climbing-stairs) |
+| [0678-valid-parenthesis-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
@@ -177,6 +180,7 @@
 | [0234-palindrome-linked-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0874-backspace-string-compare) |
