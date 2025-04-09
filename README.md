@@ -73,6 +73,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1792-find-the-most-competitive-subsequence) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1829-maximum-units-on-a-truck](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
 | [1833-find-the-highest-altitude](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1833-find-the-highest-altitude) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -196,6 +197,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1666-make-the-string-great) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1792-find-the-most-competitive-subsequence) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -316,6 +318,7 @@
 | [0898-transpose-matrix](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0898-transpose-matrix) |
 | [0983-validate-stack-sequences](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0983-validate-stack-sequences) |
 | [1505-create-target-array-in-the-given-order](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1505-create-target-array-in-the-given-order) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2551-apply-operations-to-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search
@@ -465,6 +468,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0387-first-unique-character-in-a-string) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Memoization
 |  |
 | ------- |
