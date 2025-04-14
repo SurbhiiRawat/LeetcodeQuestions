@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0041-first-missing-positive) |
@@ -216,6 +217,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0948-sort-an-array) |
@@ -328,6 +330,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
