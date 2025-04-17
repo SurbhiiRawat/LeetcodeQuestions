@@ -12,6 +12,7 @@
 | [0016-3sum-closest](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0088-merge-sorted-array) |
@@ -300,6 +301,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0292-nim-game) |
@@ -429,6 +431,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0048-rotate-image) |
 | [0898-transpose-matrix](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1677-matrix-diagonal-sum) |
