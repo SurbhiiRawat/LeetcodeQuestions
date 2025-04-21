@@ -78,6 +78,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1791-richest-customer-wealth](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1791-richest-customer-wealth) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1829-maximum-units-on-a-truck](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
@@ -441,6 +442,7 @@
 | [0898-transpose-matrix](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1677-matrix-diagonal-sum) |
+| [1791-richest-customer-wealth](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2398-check-if-matrix-is-x-matrix) |
