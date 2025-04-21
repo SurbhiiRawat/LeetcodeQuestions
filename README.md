@@ -90,6 +90,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2249-count-the-hidden-sequences](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2249-count-the-hidden-sequences) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2398-check-if-matrix-is-x-matrix) |
@@ -426,6 +427,7 @@
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2102-find-the-middle-index-in-array) |
+| [2249-count-the-hidden-sequences](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2249-count-the-hidden-sequences) |
 | [2714-left-and-right-sum-differences](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2714-left-and-right-sum-differences) |
 ## Bit Manipulation
 |  |
