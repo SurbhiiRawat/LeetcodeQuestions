@@ -1,12 +1,15 @@
 class Solution {
     public int minStartValue(int[] nums) {
-        
-        int max = Math.min(nums[0],Integer.MAX_VALUE);
+        int min = Integer.MAX_VALUE;
+        int prefix[] = new int[nums.length];
+        prefix[0] = nums[0];
         for(int i=1; i<nums.length; i++){
-            nums[i] = nums[i-1] + nums[i];
-            max = Math.min(max, nums[i]);
+            prefix[i] = prefix[i-1]+nums[i];
         }
-        if(max >0) return 1;
-        return Math.abs(max)+1;
+        for(int i=0; i<prefix.length; i++){
+            min = Math.min(min, prefix[i]);
+        }
+        if(min > 0) return 1;
+        else return -min+1;
     }
 }
