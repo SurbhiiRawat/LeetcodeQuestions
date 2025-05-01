@@ -16,6 +16,7 @@
 | [0049-group-anagrams](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0128-longest-consecutive-sequence) |
@@ -112,6 +113,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0141-linked-list-cycle) |
@@ -235,6 +237,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0217-contains-duplicate) |
