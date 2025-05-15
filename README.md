@@ -87,6 +87,7 @@
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1829-maximum-units-on-a-truck](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1829-maximum-units-on-a-truck) |
 | [1833-find-the-highest-altitude](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1833-find-the-highest-altitude) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -359,6 +360,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2665-minimum-time-to-repair-cars) |
 ## Hash Table
