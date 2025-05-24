@@ -11,6 +11,7 @@
 | [0011-container-with-most-water](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0048-rotate-image) |
@@ -357,6 +358,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
