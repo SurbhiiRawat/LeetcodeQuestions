@@ -72,6 +72,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1603-running-sum-of-1d-array) |
@@ -431,6 +432,7 @@
 | [0219-contains-duplicate-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3463-alternating-groups-i](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/3463-alternating-groups-i) |
 ## Prefix Sum
 |  |
@@ -445,6 +447,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1603-running-sum-of-1d-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1694-make-sum-divisible-by-p) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
