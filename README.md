@@ -179,6 +179,7 @@
 | [1044-find-common-characters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1321-get-equal-substrings-within-budget](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -368,6 +369,7 @@
 | [0853-most-profit-assigning-work](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1321-get-equal-substrings-within-budget](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -431,6 +433,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0239-sliding-window-maximum) |
+| [1321-get-equal-substrings-within-budget](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3463-alternating-groups-i](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/3463-alternating-groups-i) |
@@ -445,6 +448,7 @@
 | [0724-find-pivot-index](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0724-find-pivot-index) |
 | [0878-shifting-letters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0878-shifting-letters) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1321-get-equal-substrings-within-budget](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
