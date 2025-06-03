@@ -68,6 +68,7 @@
 | [1306-minimum-absolute-difference](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1370-count-number-of-nice-subarrays](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
@@ -332,6 +333,7 @@
 | [0523-continuous-subarray-sum](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0797-rabbits-in-forest](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0797-rabbits-in-forest) |
+| [1370-count-number-of-nice-subarrays](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1635-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -413,6 +415,7 @@
 | [1044-find-common-characters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1319-unique-number-of-occurrences) |
+| [1370-count-number-of-nice-subarrays](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1500-count-largest-group](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1500-count-largest-group) |
@@ -434,6 +437,7 @@
 | [0219-contains-duplicate-ii](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [1321-get-equal-substrings-within-budget](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1321-get-equal-substrings-within-budget) |
+| [1370-count-number-of-nice-subarrays](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3463-alternating-groups-i](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/3463-alternating-groups-i) |
@@ -449,6 +453,7 @@
 | [0878-shifting-letters](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/0878-shifting-letters) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1321-get-equal-substrings-within-budget) |
+| [1370-count-number-of-nice-subarrays](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
