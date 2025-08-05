@@ -338,6 +338,7 @@
 | [1635-number-of-good-pairs](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1635-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2050-count-good-numbers](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2050-count-good-numbers) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/SurbhiiRawat/LeetcodeQuestions/tree/master/3227-find-missing-and-repeated-values) |
